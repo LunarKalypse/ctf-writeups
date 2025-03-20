@@ -9,6 +9,7 @@ flag.txt is not readable and owned by the account "noaccess"
 
 sudo was not a command, so can't do sudo -l to see sudoable binaries
 
+### Solution:
 ```sh
 find / -perm -u=s -type f 2>/dev/null
 ```
