@@ -3,7 +3,6 @@ ___
 This repo is here to showcase writeups from CTFs I have competed in.
 
 ### Notes
-- These are by no means the best solutions
 - I am learning here on my own, these are by no means the best solutions.
 - Please reach out to me if you have clarifications or can do my writeups in a better way.
 
